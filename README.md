@@ -1,4 +1,4 @@
-<div align="center"> <img src="./assets/banner.png" width="100%" alt="Banner"> </div> <br><br>I’m a psychologist and freelance illustrator currently studying Software Development.<br>I love combining **art, psychology, and technology** to create unique projects and bring ideas to life.<br><br>🌱 Learning • 🎮 Creating • 💻 Coding • 🎨 Drawing<br>
+<div align="center"> <img src="./assets/banner.png" width="100%" alt="Banner"> </div> <br><br>I’m a psychologist and freelance illustrator currently studying Software Development.<br>I love combining art, psychology, and technology to create unique projects and bring ideas to life.<br><br>🌱 Learning • 🎮 Creating • 💻 Coding • 🎨 Drawing<br>
 
 
 ## 🌐 Socials:
